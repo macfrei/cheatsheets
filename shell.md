@@ -17,6 +17,7 @@
 * `touch [Dateiname]` = Unterordner erstellen
 * `mv [alter Name] [neuer Name]` = Ordner/Datei umbennenen
 * `mv [alter Pfad] [neuer Pfad]` = Ordner/Datei verschieben
+    * mv verschieben: ```mv alter Pfad/ neuer Pfad/```
 * `mv [Ordner] *` = verschieben des Ordners in den aktuellen Ordner
 * `cp -R [src-directory] [target-directory]` = kopiert alles aus dem Quellverzeichnis in das Zielverzeichnis
 * `pbcopy` = speichert Eingabe in die Zwischenablage (Bsp.: `cat ~/.ssh/id_rsa.pub | pbcopy`)
